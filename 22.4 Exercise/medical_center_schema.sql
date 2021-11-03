@@ -1,0 +1,5 @@
+/* Design the schema for a medical center.
+One medical center employs several doctors. 
+A doctor can see many patients.
+A patient can be seen by many doctors.
+A patient may have zero or more diseases. */
